@@ -1,0 +1,13 @@
+up
+down
+left
+right
+land
+backflip
+return_home
+spin_180
+spin_360
+takeoff
+forward_up
+forward_down
+nod
